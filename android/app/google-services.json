@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57724888794",
+    "project_id": "phoneauthflutter-abc2f",
+    "storage_bucket": "phoneauthflutter-abc2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57724888794:android:7e1619bdc8e3d53e34e7e3",
+        "android_client_info": {
+          "package_name": "com.ashly.to_do_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqM81llVWLCzzTyM9QzyPKX-nx0N84GBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
